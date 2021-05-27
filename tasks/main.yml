@@ -1,1 +1,4 @@
 ---
+- name: include geerlingguy.exim
+  include_role:
+    name: geerlingguy.exim
